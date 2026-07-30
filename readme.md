@@ -4,3 +4,12 @@
 
 - [Digitalisierung von Bilder und Audio](https://github.com/ktheu/BrueckenkursN/blob/main/DatenUndCodierung/02Digitalisierung.ipynb)
 
+
+#### Algorithmen
+
+
+#### Rechner und Netze
+
+
+#### Informationsgesellschaft und Datensicherheit
+
