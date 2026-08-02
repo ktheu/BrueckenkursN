@@ -13,3 +13,7 @@
 
 ### Informationsgesellschaft und Datensicherheit
 
+- [Inhalte](https://github.com/ktheu/BrueckenkursN/blob/main/Datensicherheit/inhalte.ipynb) -  [Aufgaben](./Datensicherheit/aufgaben.pdf) - [Lösungen](./Datensicherheit/aufgaben_loes.pdf)
+
+
+
