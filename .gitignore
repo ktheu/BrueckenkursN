@@ -31,9 +31,6 @@ htmlcov/
 *.feather
 *.xls
 *.xlsx
-*.png
-*.jpg
-*.jpeg
 *.gif
 *.svg
 *.pdf
