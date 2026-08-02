@@ -33,7 +33,7 @@ htmlcov/
 *.xlsx
 *.gif
 *.svg
-*.pdf
+ 
 
 # Environment files
 .env
