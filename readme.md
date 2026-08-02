@@ -10,6 +10,8 @@
 
 ### Rechner und Netze
 
+- [Inhalte](https://github.com/ktheu/BrueckenkursN/blob/main/RechnerUndNetze/inhalte.ipynb) -  [Aufgaben](./RechnerUndNetze/aufgaben/aufgaben.pdf) - [Lösungen](./RechnerUndNetze/aufgaben/aufgaben_loes.pdf)
+
 
 ### Informationsgesellschaft und Datensicherheit
 
