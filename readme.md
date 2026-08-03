@@ -9,7 +9,7 @@
 
 - [Grundlagen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/01grundlagen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/01grundlagen/aufgaben.pdf) - [Lösungen](./Algorithmen/01grundlagen/aufgaben_loes.pdf)
 
-- [Bedingungen und Schleifen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/02bedingungen.ipynb) -  [Aufgaben](./Algorithmen/02bedingungen/aufgaben.pdf) - [Lösungen](./Algorithmen/02bedingungen/aufgaben_loes.pdf)
+- [Bedingungen und Schleifen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/02bedingungen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/02bedingungen/aufgaben.pdf) - [Lösungen](./Algorithmen/02bedingungen/aufgaben_loes.pdf)
 
 - [Listen,Zufall,Funktionen,Dateien](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/03listen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/03listen/aufgaben.pdf) - [Lösungen](./Algorithmen/03listen/aufgaben_loes.pdf)
 
