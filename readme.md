@@ -11,7 +11,7 @@
 
 - [Bedingungen und Schleifen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/02bedingungen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/02bedingungen/aufgaben.pdf) - [Lösungen](./Algorithmen/02bedingungen/aufgaben_loes.pdf)
 
-- [Listen,Zufall,Funktionen,Dateien](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/03listen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/03listen/aufgaben.pdf) - [Lösungen](./Algorithmen/03listen/aufgaben_loes.pdf)
+- [Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/03listen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/03listen/aufgaben.pdf) - [Lösungen](./Algorithmen/03listen/aufgaben_loes.pdf)
 
 - [Fehler, Debugger, Einfache Algorithmen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/04algorithmen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/04algorithmen/aufgaben.pdf) - [Lösungen](./Algorithmen/04algorithmen/aufgaben_loes.pdf)
 
