@@ -7,7 +7,7 @@
 
 ### Algorithmen
 
-- [Einführung](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/00einführung/inhalte.ipynb)
+- [Einführung, Thonny](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/00einfuehrung/inhalte.ipynb)
 
 - [Grundlagen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/01grundlagen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/01grundlagen/aufgaben.pdf) - [Lösungen](./Algorithmen/01grundlagen/aufgaben_loes.pdf)
 
