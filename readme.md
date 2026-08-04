@@ -7,6 +7,8 @@
 
 ### Algorithmen
 
+- [Einführung](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/00einführung/inhalte.ipynb)
+
 - [Grundlagen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/01grundlagen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/01grundlagen/aufgaben.pdf) - [Lösungen](./Algorithmen/01grundlagen/aufgaben_loes.pdf)
 
 - [Bedingungen und Schleifen](https://github.com/ktheu/BrueckenkursN/blob/main/Algorithmen/02bedingungen/inhalte.ipynb) -  [Aufgaben](./Algorithmen/02bedingungen/aufgaben.pdf) - [Lösungen](./Algorithmen/02bedingungen/aufgaben_loes.pdf)
