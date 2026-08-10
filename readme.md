@@ -1,8 +1,10 @@
 ### Daten und Codierung
 
-- [Bits und Bytes, Zahlsysteme](https://github.com/ktheu/BrueckenkursN/blob/main/DatenUndCodierung/01bitsUndBytes/inhalte.ipynb) -  [Aufgaben](./DatenUndCodierung/01bitsUndBytes/aufgaben.pdf) - [Lösungen](./DatenUndCodierung/01bitsUndBytes/aufgaben_loes.pdf)
+- [Bits und Bytes, Zahlsysteme](https://github.com/ktheu/BrueckenkursN/blob/main/DatenUndCodierung/bitsUndBytes/inhalte.ipynb) -  [Aufgaben](./DatenUndCodierung/bitsUndBytes/aufgaben.pdf) - [Lösungen](./DatenUndCodierung/bitsUndBytes/aufgaben_loes.pdf)
 
-- [Digitalisierung von Bilder und Audio](https://github.com/ktheu/BrueckenkursN/blob/main/DatenUndCodierung/02digitalisierung/inhalte.ipynb) - [Aufgaben](./DatenUndCodierung/02digitalisierung/aufgaben.pdf) - [Lösungen](./DatenUndCodierung/02digitalisierung/aufgaben_loes.pdf)
+- [ASCII, Unicode, UTF-8](https://github.com/ktheu/BrueckenkursN/blob/main/DatenUndCodierung/zeichen/inhalte.ipynb) -  [Aufgaben](./DatenUndCodierung/zeichen/aufgaben.pdf) - [Lösungen](./DatenUndCodierung/zeichen/aufgaben_loes.pdf)
+
+- [Digitalisierung von Bilder und Audio](https://github.com/ktheu/BrueckenkursN/blob/main/DatenUndCodierung/digitalisierung/inhalte.ipynb) - [Aufgaben](./DatenUndCodierung/digitalisierung/aufgaben.pdf) - [Lösungen](./DatenUndCodierung/digitalisierung/aufgaben_loes.pdf)
 
 
 ### Algorithmen
